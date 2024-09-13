@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshWeaver.Reinsurance", "MeshWeaver.Reinsurance\MeshWeaver.Reinsurance.csproj", "{FC49A67A-00E7-4D64-9FB4-BAEAAB1DCDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshWeaver.Reinsurance.Test", "MeshWeaver.Reinsurance.Test\MeshWeaver.Reinsurance.Test.csproj", "{341281A0-ED08-44AD-A0AF-7B4010C08270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC49A67A-00E7-4D64-9FB4-BAEAAB1DCDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC49A67A-00E7-4D64-9FB4-BAEAAB1DCDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC49A67A-00E7-4D64-9FB4-BAEAAB1DCDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC49A67A-00E7-4D64-9FB4-BAEAAB1DCDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341281A0-ED08-44AD-A0AF-7B4010C08270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341281A0-ED08-44AD-A0AF-7B4010C08270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341281A0-ED08-44AD-A0AF-7B4010C08270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341281A0-ED08-44AD-A0AF-7B4010C08270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E181F7B2-4075-4489-94DB-6BA36AE4FBA4}
+	EndGlobalSection
+EndGlobal
